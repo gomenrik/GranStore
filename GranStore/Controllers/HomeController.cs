@@ -64,7 +64,7 @@ public class HomeController : Controller
             },
             new Produto {
                 Id = 5,
-                Categoria = categorias[1], // Corrigido: Mousepad
+                Categoria = categorias[1],
                 Nome = "KanamiMinamiGlasspad",
                 Descricao = "Lorem Ipsum",
                 ValorCusto = 1499.90m,
@@ -74,7 +74,7 @@ public class HomeController : Controller
             },
             new Produto {
                 Id = 6,
-                Categoria = categorias[1], // Corrigido: Mousepad
+                Categoria = categorias[1],
                 Nome = "Wallhack SP-004",
                 Descricao = "Lorem Ipsum",
                 ValorCusto = 1299.90m,
@@ -84,7 +84,7 @@ public class HomeController : Controller
             },
             new Produto {
                 Id = 7,
-                Categoria = categorias[1], // Corrigido: Mousepad
+                Categoria = categorias[1],
                 Nome = "LGG x Pulsar Hyperion XXL",
                 Descricao = "Lorem Ipsum",
                 ValorCusto = 1199.90m,
@@ -94,7 +94,7 @@ public class HomeController : Controller
             },
             new Produto {
                 Id = 8,
-                Categoria = categorias[1], // Corrigido: Mousepad
+                Categoria = categorias[1],
                 Nome = "Artisan FX Key-83 XL",
                 Descricao = "Lorem Ipsum",
                 ValorCusto = 749.90m,
